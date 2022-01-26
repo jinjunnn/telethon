@@ -1,0 +1,1552 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": null,
+            "id": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.97495,
+                    21.93675
+                ]
+            },
+            "geometry_name": null,
+            "properties": {
+                "mmsi": 209026000,
+                "imo": 9256884,
+                "vessel_name": "KATERINA",
+                "call_sign": "P3UG9",
+                "vessel_type": "Cargo",
+                "vessel_type_code": null,
+                "vessel_type_cargo": null,
+                "vessel_class": "A",
+                "length": 225,
+                "width": 32,
+                "flag_country": "CY",
+                "flag_code": null,
+                "destination": "CN NSA",
+                "eta": "2021-10-20T14:30:00+00:00",
+                "draught": 13.1,
+                "longitude": 113.97495,
+                "latitude": 21.93675,
+                "sog": null,
+                "cog": null,
+                "rot": 0,
+                "heading": 70,
+                "nav_status": "At anchor",
+                "nav_status_code": null,
+                "source": null,
+                "ts_pos_utc": "2021-10-27T06:10:10.138011+00:00",
+                "ts_static_utc": "2021-10-20T05:33:48+00:00",
+                "ts_insert_utc": "2021-10-27T06:09:03+00:00",
+                "dt_pos_utc": "2021-10-27T06:10:10.138011+00:00",
+                "dt_static_utc": "2021-10-20T05:33:48+00:00",
+                "dt_insert_utc": "2018-06-10T05:00:11.783217+00:00",
+                "vessel_type_main": null,
+                "vessel_type_sub": null,
+                "message_type": null,
+                "eeid": null
+            }
+        }
+    ],
+    "totalFeatures": 1,
+    "numberMatched": 1,
+    "numberReturned": 1,
+    "timeStamp": "1635319626936",
+    "crs": {
+        "type": null,
+        "properties": null
+    }
+}
+
+
+
+
+
+
+{
+    "type": null,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635314788170
+                },
+                "mmsi": "209765000",
+                "posTime": 1635314788170,
+                "accuracy": 0,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 30.0,
+                "collectionType": "dynamic",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 31,
+                "id": "88ba8cae-094d-5a2c-9be1-898a0a0e66dc",
+                "imo": "9462512",
+                "insertTime": 1635315507474,
+                "lat": 25.60865,
+                "length": 290,
+                "lon": 120.98991666666667,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635314788_209765000",
+                "rpt": -128.0,
+                "sixType": false,
+                "sog": 9.4,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 15,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635313088000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635313088000,
+                "accuracy": 0,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 31.0,
+                "collectionType": "dynamic",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 34,
+                "id": "8a61d9d0-02a1-5a2a-90fc-96c82a41a1e8",
+                "imo": "9462512",
+                "insertTime": 1635313993761,
+                "lat": 25.548,
+                "length": 290,
+                "lon": 120.945,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635313088_209765000",
+                "rpt": -128.0,
+                "sixType": false,
+                "sog": 9.3,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 15,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635311954000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635311954000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 29.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 32,
+                "id": "43466044-76f8-534d-aaea-20645c974ecd",
+                "imo": "9462512",
+                "insertTime": 1635311968088,
+                "lat": 25.5051,
+                "length": 290,
+                "lon": 120.9184,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635311954_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 9.3,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635311547000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635311547000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 28.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 31,
+                "id": "2a32d3f4-9442-558c-9936-dcb8de3090d4",
+                "imo": "9462512",
+                "insertTime": 1635311566212,
+                "lat": 25.489616666666667,
+                "length": 290,
+                "lon": 120.9089,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635311547_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 9.3,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635311214000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635311214000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 27.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 30,
+                "id": "95537005-777c-5eac-8aff-cd445daaa04e",
+                "imo": "9462512",
+                "insertTime": 1635311232620,
+                "lat": 25.476916666666668,
+                "length": 290,
+                "lon": 120.90136666666666,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635311214_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 9.2,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635310535000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635310535000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 23.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 32,
+                "id": "1e791487-f814-523a-8eb5-c91ac0dcbc1d",
+                "imo": "9462512",
+                "insertTime": 1635310561369,
+                "lat": 25.450983333333333,
+                "length": 290,
+                "lon": 120.8865,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635310535_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 9.1,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635309247000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635309247000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 20.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 22,
+                "id": "ee2c756a-8dcc-5a16-8b31-fede244d9b86",
+                "imo": "9462512",
+                "insertTime": 1635309257304,
+                "lat": 25.39915,
+                "length": 290,
+                "lon": 120.86563333333334,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635309247_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 9.0,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": null
+            },
+            "geometry_name": "segment",
+            "properties": {
+                "key": {
+                    "mmsi": "209765000",
+                    "posTime": 1635308877000
+                },
+                "mmsi": "209765000",
+                "posTime": 1635308877000,
+                "accuracy": 1,
+                "aisVersion": 0,
+                "callSign": "5BTD3",
+                "cog": 22.0,
+                "collectionType": "terrestrial",
+                "dest": "CN LYG",
+                "draught": 18.1,
+                "eta": 1635588000000,
+                "flag": "Cyprus",
+                "flagCode": 209,
+                "flagShortCode": "CY",
+                "fm": null,
+                "hdg": 24,
+                "id": "e6931f95-c46a-5666-9dc5-8db9655024bd",
+                "imo": "9462512",
+                "insertTime": 1635308896391,
+                "lat": 25.384483333333332,
+                "length": 290,
+                "lon": 120.85945,
+                "maneuver": 0,
+                "messageType": 1,
+                "msgId": "1635308877_209765000",
+                "rpt": 0.0,
+                "sixType": false,
+                "sog": 8.9,
+                "source": "FM150",
+                "staticTime": 1635290407000,
+                "status": "Under Way Using Engine",
+                "statusCode": 0,
+                "vesselClass": "A",
+                "vesselName": "EURYDICE D",
+                "vesselType": "Cargo",
+                "vesselTypeCargo": "No Additional Information",
+                "vesselTypeCode": 79,
+                "vesselTypeMain": "Bulk Carrier",
+                "vesselTypeSub": "",
+                "width": 45
+            }
+        }
+    ],
+    "totalFeatures": null,
+    "numberMatched": 8,
+    "numberReturned": 8,
+    "timeStamp": "Wed Oct 27 07:25:17 GMT 2021",
+    "crs": null
+}
+
+
+
+
+
+
+
+{
+    "paging": {
+        "limit": 100,
+        "total": 1,
+        "next": "dGltZT0xNTUyNjY0MjkzLjA1MTAyNSxpZD1kNTRjOGNkMi1hMGFmLTU0OTMtYWUzOC03ZTE2NzBlYmRmZGY="
+    },
+    "data": [
+        {
+            "id": "d54c8cd2-a0af-5493-ae38-7e1670ebdfdf",
+            "name": "LURONGYU55822",
+            "mmsi": 412329177,
+            "imo": null,
+            "call_sign": "55822",
+            "ship_type": "Fishing",
+            "class": "B",
+            "flag": "CN",
+            "length": 29,
+            "width": 6,
+            "dimensions": {
+                "A": 19,
+                "B": 10,
+                "C": 4,
+                "D": 2
+            },
+            "ais_version": 0,
+            "created_at": "2019-03-15T15:38:13.051025+00:00",
+            "updated_at": "2021-10-27T09:36:28.719810+00:00",
+            "static_updated_at": "2020-08-21T01:24:39.365311+00:00",
+            "position_updated_at": "2021-10-27T09:36:28.719810+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-27T09:35:30+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        122.68232,
+                        37.37196
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 8.2,
+                "rot": null,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": null,
+                "maneuver": null,
+                "course": 268.2
+            },
+            "most_recent_voyage": {
+                "eta": null,
+                "destination": null,
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": null,
+            "individual_classification": null,
+            "gross_tonnage": null,
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": null
+        }
+    ]
+}
+
+
+
+from telethon import TelegramClient
+from telethon import Button
+from telethon.tl.functions.messages import AddChatUserRequest
+from telethon.tl.types import InputPhoneContact
+from telethon.tl.functions.contacts import ImportContactsRequest#添加到 Contact 
+from telethon.tl.functions.channels import JoinChannelRequest#添加群聊
+
+# Use your own values from my.telegram.org
+api_id = 8149287
+api_hash = '955176e7c610c3ad95bd018eae169339'
+client = TelegramClient('anon', api_id, api_hash)
+
+
+async def main():
+    # Getting information about yourself
+    me = await client.get_me()
+    # "me" is a user object. You can pretty-print
+    # any Telegram object with the "stringify" method:
+    # print(me.stringify())
+
+    # 遍历历史会话
+    # async for dialog in client.iter_dialogs():
+    #     print(dialog.name, 'has ID', dialog.id)
+        # print(dialog.stringify())
+
+
+
+
+    #这段代码是通过id获得群的详细信息
+    # chatroom_id = -1001228203377
+    # iddd = 1
+    # async for user in client.iter_participants(chatroom_id):
+    #     iddd = iddd + 1
+        # print(user.stringify())
+
+
+
+
+    contact = InputPhoneContact(client_id=0, phone="+8613924596034",first_name="福田 -科学馆- 梦婷 (超好fw)")
+    result = client.invoke(ImportContactsRequest([contact
+]))
+
+
+
+    #加入群聊
+    # channel_link = 'https: //t.me/tonghua666'
+    # results = await client(JoinChannelRequest(channel_link))
+    # print(results.stringify())
+
+    
+    # When you print something, you see a representation of it.
+    # You can access all attributes of Telegram objects with
+    # the dot operator. For example, to get the username:
+    # username = me.username
+    # print(username)
+    # print(me.phone)
+
+
+    # 用户可以给自己，给群组、给联系人给昵称发送消息
+    # await client.send_message('me', 'Hello, myself!')
+    # ...to some chat ID
+    # await client.send_message(-1001228203377, 'didi')
+    # ...to your contacts
+    # await client.send_message(+1883177499, 'didi2')
+    # ...or even to any username
+    # await client.send_message('喵喵', 'didi3')
+
+    # message = await client.send_message(
+    #     'me',
+    #     'This message has **bold**, `code`, __italics__ and '
+    #     'a [nice website
+](https: //example.com)!',
+    #     link_preview=False
+    # )
+
+    # 发送消息后会返回一个消息object，可以直接使用消息object
+    # print(message.raw_text)
+    # 如果有消息object 可以直接回复消息
+    # await message.reply('Cool!')
+
+    # 发送文件
+    # await client.send_file('me', '/home/me/Pictures/holidays.jpg')
+
+    # 打印群历史消息
+    # async for message in client.iter_messages(-1001228203377):
+    #     print(message.id, message.text)
+    #     print(message.stringify())
+    #     return
+    #     # You can download media from messages, too!
+    #     # The method will return the path where the file was saved.
+    #     if message.photo:
+    #         # path = await message.download_media()
+    #         # print('File saved to', path)  # printed after download is done
+    #         pass
+
+    #这段代码是通过id获得群的详细信息
+    # chatroom_id = 1799049131
+    # usr = await client.get_entity(chatroom_id)
+    # print(usr.stringify())
+
+    # 这段代码是查看群组有多少人
+    # iddd = 1
+    # async for user in client.iter_participants(chatroom_id):
+    #     iddd = iddd + 1
+    #     print(iddd,'-->',user.first_name)
+
+  #这段代码是加入群组时，解析出群组的id
+  # async def my_event_handler(event):
+  #     hash = re.search('(?<=joinchat\/)(\w+[-
+]?\S\w+)',event.raw_text.group(0) 
+
+
+
+
+
+
+with client:
+    client.loop.run_until_complete(main())
+
+
+
+
+
+
+
+
+    {
+    "paging": {
+        "limit": 1,
+        "total": 437819,
+        "next": "dGltZT0xNTAyNDc0NDY4Ljk0MzcyOCxpZD02OGZkNWRiNS1iMGRhLTRlYzktYTQxOC1jNjJjYzEyNzJiZDE="
+    },
+    "data": [
+        {
+            "id": "68fd5db5-b0da-4ec9-a418-c62cc1272bd1",
+            "name": "DISTANT WINDS",
+            "mmsi": 203012200,
+            "imo": null,
+            "call_sign": "OEX5126",
+            "ship_type": "Sailing Vessel",
+            "class": "B",
+            "flag": "AT",
+            "length": 13,
+            "width": 4,
+            "dimensions": {
+                "A": 7,
+                "B": 6,
+                "C": 2,
+                "D": 2
+            },
+            "ais_version": 0,
+            "created_at": "2017-08-11T18:01:08.943728+00:00",
+            "updated_at": "2021-09-28T12:06:21.706494+00:00",
+            "static_updated_at": "2021-05-19T08:11:01+00:00",
+            "position_updated_at": "2021-09-28T12:06:21.706494+00:00",
+            "last_known_position": {
+                "timestamp": "2021-09-28T12:05:39+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.37788,
+                        45.64511
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 6.7,
+                "rot": null,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 0.0,
+                "maneuver": null,
+                "course": 342.1
+            },
+            "most_recent_voyage": {
+                "eta": null,
+                "destination": null,
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Pleasure/Leisure",
+            "individual_classification": "Yacht",
+            "gross_tonnage": "23,41",
+            "lifeboats": null,
+            "person_capacity": 10.0,
+            "navigational_status": null
+        }
+    ]
+}'
+
+
+
+
+
+'{
+    "paging": {
+        "limit": 1,
+        "total": 1,
+        "next": "dGltZT0xNTI3NzYxNjUwLjE0MzUxNCxpZD0xY2VkNDhiOS04NjNkLTRhMWEtOTI3OS1lYTczZWRkNzY2MmU="
+    },
+    "data": [
+        {
+            "id": "1ced48b9-863d-4a1a-9279-ea73edd7662e",
+            "name": "PETER",
+            "mmsi": 219002418,
+            "imo": null,
+            "call_sign": "OUQD",
+            "ship_type": "Passenger Ship",
+            "class": "A",
+            "flag": "DK",
+            "length": 23,
+            "width": 7,
+            "dimensions": {
+                "A": 16,
+                "B": 7,
+                "C": 1,
+                "D": 6
+            },
+            "ais_version": 0,
+            "created_at": "2018-05-31T10:14:10.143514+00:00",
+            "updated_at": "2021-10-28T08:36:14.481587+00:00",
+            "static_updated_at": "2021-04-22T06:29:25+00:00",
+            "position_updated_at": "2021-10-28T08:36:14.481587+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-28T08:35:06+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        14.97207,
+                        55.21233
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 0.0,
+                "rot": -128.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 3.0,
+                "maneuver": 0.0,
+                "course": 203.1
+            },
+            "most_recent_voyage": {
+                "eta": null,
+                "destination": "GUDHJEM   >< CHROE",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Merchant",
+            "individual_classification": "Passenger Ship",
+            "gross_tonnage": "0",
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Under way using engine"
+        }
+    ]
+}'
+
+
+
+'{
+    "paging": {
+        "limit": 100,
+        "total": 2,
+        "next": "dGltZT0xNTI3NzYxNjUwLjE0MzUxNCxpZD0xY2VkNDhiOS04NjNkLTRhMWEtOTI3OS1lYTczZWRkNzY2MmU="
+    },
+    "data": [
+        {
+            "id": "47fcf3a6-1585-49e0-8179-e747a9ce9ac6",
+            "name": "REGIUS",
+            "mmsi": 244710824,
+            "imo": null,
+            "call_sign": "PE8891",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "NL",
+            "length": 62,
+            "width": 8,
+            "dimensions": {
+                "A": 55,
+                "B": 7,
+                "C": 4,
+                "D": 4
+            },
+            "ais_version": 0,
+            "created_at": "2017-12-19T16:26:46.258269+00:00",
+            "updated_at": "2021-10-28T08:36:17.376323+00:00",
+            "static_updated_at": "2020-12-11T13:58:03+00:00",
+            "position_updated_at": "2021-10-28T08:36:17.376323+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-28T08:35:13+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.68898,
+                        50.79066
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 7.1,
+                "rot": -128.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 2.5,
+                "maneuver": 0.0,
+                "course": 354.0
+            },
+            "most_recent_voyage": {
+                "eta": null,
+                "destination": null,
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": null,
+            "individual_classification": null,
+            "gross_tonnage": null,
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Under way using engine"
+        },
+        {
+            "id": "1ced48b9-863d-4a1a-9279-ea73edd7662e",
+            "name": "PETER",
+            "mmsi": 219002418,
+            "imo": null,
+            "call_sign": "OUQD",
+            "ship_type": "Passenger Ship",
+            "class": "A",
+            "flag": "DK",
+            "length": 23,
+            "width": 7,
+            "dimensions": {
+                "A": 16,
+                "B": 7,
+                "C": 1,
+                "D": 6
+            },
+            "ais_version": 0,
+            "created_at": "2018-05-31T10:14:10.143514+00:00",
+            "updated_at": "2021-10-28T08:36:14.481587+00:00",
+            "static_updated_at": "2021-04-22T06:29:25+00:00",
+            "position_updated_at": "2021-10-28T08:36:14.481587+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-28T08:35:06+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        14.97207,
+                        55.21233
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 0.0,
+                "rot": -128.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 3.0,
+                "maneuver": 0.0,
+                "course": 203.1
+            },
+            "most_recent_voyage": {
+                "eta": null,
+                "destination": "GUDHJEM   >< CHROE",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Merchant",
+            "individual_classification": "Passenger Ship",
+            "gross_tonnage": "0",
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Under way using engine"
+        }
+    ]
+}'
+
+
+
+
+
+
+
+
+'{
+    "paging": {
+        "limit": 100,
+        "total": 1,
+        "next": "dGltZT0xNjMzNzMzMTMzLjYzNDY4MixpZD1jNDczOTA3ZC0zN2Q2LTU2MTMtYjg2My01NzA2N2FjYjNmYTQ="
+    },
+    "data": [
+        {
+            "id": "c473907d-37d6-5613-b863-57067acb3fa4",
+            "name": "EVER AIM",
+            "mmsi": 352980788,
+            "imo": 9893917,
+            "call_sign": "3E3532",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "PA",
+            "length": 400,
+            "width": 62,
+            "dimensions": {
+                "A": 132,
+                "B": 268,
+                "C": 17,
+                "D": 45
+            },
+            "ais_version": 0,
+            "created_at": "2021-10-08T22:45:33.634682+00:00",
+            "updated_at": "2021-10-28T09:36:11.840199+00:00",
+            "static_updated_at": "2021-10-28T08:50:19+00:00",
+            "position_updated_at": "2021-10-28T09:36:11.840199+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-28T09:35:06+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        128.80248,
+                        34.47401
+                    ]
+                },
+                "heading": 202.0,
+                "speed": 13.2,
+                "rot": -3.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 10.5,
+                "maneuver": 0.0,
+                "course": 203.3
+            },
+            "most_recent_voyage": {
+                "eta": "2021-10-29T08:00:00+00:00",
+                "destination": "KRKJE > CNQIN",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": null,
+            "individual_classification": null,
+            "gross_tonnage": null,
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Under way using engine"
+        }
+    ]
+}'
+
+
+
+
+b'{
+    "paging": {
+        "limit": 100,
+        "total": 1,
+        "next": "dGltZT0xNTMxNzM3ODUwLjQ4OTI0NCxpZD01NzY3OTJmOC1iNTMyLTRlYTAtOTAxNi1lYmM4YzJkZDEzZTQ="
+    },
+    "data": [
+        {
+            "id": "576792f8-b532-4ea0-9016-ebc8c2dd13e4",
+            "name": "MINERAL NINGBO",
+            "mmsi": 205554000,
+            "imo": 9416848,
+            "call_sign": "ONGA",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "BE",
+            "length": 292,
+            "width": 45,
+            "dimensions": {
+                "A": 258,
+                "B": 34,
+                "C": 28,
+                "D": 17
+            },
+            "ais_version": 0,
+            "created_at": "2018-07-16T10:44:10.489244+00:00",
+            "updated_at": "2021-10-29T02:09:13.039152+00:00",
+            "static_updated_at": "2021-10-10T16:04:25+00:00",
+            "position_updated_at": "2021-10-29T02:09:13.039152+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-29T01:46:07+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        64.47412,
+                        6.60773
+                    ]
+                },
+                "heading": 224.0,
+                "speed": 11.7,
+                "rot": 0.0,
+                "accuracy": null,
+                "collection_type": "satellite",
+                "draught": 17.6,
+                "maneuver": 0.0,
+                "course": 224.3
+            },
+            "most_recent_voyage": {
+                "eta": "2021-10-18T17:30:00+00:00",
+                "destination": "JAIGARH",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Naval",
+            "individual_classification": "Oil Tanker",
+            "gross_tonnage": "90000",
+            "lifeboats": 2.0,
+            "person_capacity": 60.0,
+            "navigational_status": "Under way using engine"
+        }
+    ]
+}'
+
+
+
+
+
+
+b'{
+    "paging": {
+        "limit": 100,
+        "total": 2,
+        "next": "dGltZT0xNTUxOTUyMzk3LjgzNzQ5MixpZD1hNTY1NjBjNi1mNGU5LTU4YTQtODA1Ni02NmIxMTNlYWU1NjA="
+    },
+    "data": [
+        {
+            "id": "03411314-e02a-5fe0-991c-2cb8a1909265",
+            "name": "HERMA P",
+            "mmsi": 636091083,
+            "imo": 9317925,
+            "call_sign": "A8JF4",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "LR",
+            "length": 294,
+            "width": 32,
+            "dimensions": {
+                "A": null,
+                "B": null,
+                "C": null,
+                "D": null
+            },
+            "ais_version": 0,
+            "created_at": "2019-03-07T09:52:42.479077+00:00",
+            "updated_at": "2020-05-06T16:23:15.657355+00:00",
+            "static_updated_at": "2019-02-28T22:18:11.434561+00:00",
+            "position_updated_at": "2020-05-06T16:23:15.657355+00:00",
+            "last_known_position": {
+                "timestamp": "2020-05-06T16:22:00+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        153.26248,
+                        -32.24827
+                    ]
+                },
+                "heading": 17.0,
+                "speed": 16.6,
+                "rot": 0.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 7.0,
+                "maneuver": 0.0,
+                "course": 21.8
+            },
+            "most_recent_voyage": {
+                "eta": "2019-02-28T13:00:00+00:00",
+                "destination": "BUSAN OLD PORT ANCH",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Merchant",
+            "individual_classification": "Container Ship",
+            "gross_tonnage": "0",
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Under way using engine"
+        },
+        {
+            "id": "a56560c6-f4e9-58a4-8056-66b113eae560",
+            "name": "CITY OF ALEXANDRIA",
+            "mmsi": 209520000,
+            "imo": 9317925,
+            "call_sign": "5BEF5",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "CY",
+            "length": 294,
+            "width": 32,
+            "dimensions": {
+                "A": 220,
+                "B": 74,
+                "C": 13,
+                "D": 19
+            },
+            "ais_version": 0,
+            "created_at": "2019-03-07T09:53:17.837492+00:00",
+            "updated_at": "2021-10-29T05:41:40.703080+00:00",
+            "static_updated_at": "2021-10-29T01:01:19+00:00",
+            "position_updated_at": "2021-10-29T05:41:40.703080+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-29T05:40:55+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        120.20509,
+                        36.00733
+                    ]
+                },
+                "heading": 220.0,
+                "speed": 0.0,
+                "rot": 0.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 10.6,
+                "maneuver": 0.0,
+                "course": 242.2
+            },
+            "most_recent_voyage": {
+                "eta": "2021-10-31T13:01:00+00:00",
+                "destination": "CN SHG",
+                "matched_port": {
+                    "unlocode": "CN SHG",
+                    "port_name": "Shanghai Pt",
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": "Merchant",
+            "individual_classification": null,
+            "gross_tonnage": "20",
+            "lifeboats": null,
+            "person_capacity": 8.0,
+            "navigational_status": "Moored"
+        }
+    ]
+}'
+
+
+
+
+
+b'{
+    "paging": {
+        "limit": 100,
+        "total": 1,
+        "next": "dGltZT0xNTExMjYyMDg3LjUxMzc3OSxpZD1jOGVlMWY4OC1mMTAyLTRiYWEtYjlhNC0zOWM5OTJkYjUyZGE="
+    },
+    "data": [
+        {
+            "id": "c8ee1f88-f102-4baa-b9a4-39c992db52da",
+            "name": "GLORY",
+            "mmsi": 563338000,
+            "imo": 9256183,
+            "call_sign": "9V6369",
+            "ship_type": "Tanker",
+            "class": "A",
+            "flag": "SG",
+            "length": 54,
+            "width": 10,
+            "dimensions": {
+                "A": 46,
+                "B": 8,
+                "C": 6,
+                "D": 4
+            },
+            "ais_version": 0,
+            "created_at": "2017-11-21T11:01:27.513779+00:00",
+            "updated_at": "2021-10-29T10:22:24.190305+00:00",
+            "static_updated_at": "2021-10-18T00:50:55+00:00",
+            "position_updated_at": "2021-10-29T10:22:24.190305+00:00",
+            "last_known_position": {
+                "timestamp": "2021-10-29T10:21:45+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        103.93986,
+                        1.29949
+                    ]
+                },
+                "heading": 511.0,
+                "speed": 0.1,
+                "rot": -128.0,
+                "accuracy": null,
+                "collection_type": "terrestrial",
+                "draught": 2.0,
+                "maneuver": 0.0,
+                "course": 360.0
+            },
+            "most_recent_voyage": {
+                "eta": "2022-01-16T06:00:00+00:00",
+                "destination": "AEPB",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": null,
+            "individual_classification": "Tanker",
+            "gross_tonnage": "0",
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "At anchor"
+        }
+    ]
+}'
+
+
+
+'{
+    "paging": {
+        "limit": 100,
+        "total": 1,
+        "next": "dGltZT0xNTExMzg0Mjk1LjU4MjM1MyxpZD1kYjcwOTc5Yy0xMjUwLTRlOTQtYTc1ZS01YWY1MzMyNTU0ODM="
+    },
+    "data": [
+        {
+            "id": "db70979c-1250-4e94-a75e-5af533255483",
+            "name": "PRINCESS COCO",
+            "mmsi": 636018359,
+            "imo": 9149665,
+            "call_sign": "A8CL2",
+            "ship_type": "Cargo",
+            "class": "A",
+            "flag": "LR",
+            "length": 181,
+            "width": 26,
+            "dimensions": {
+                "A": 161,
+                "B": 20,
+                "C": 14,
+                "D": 12
+            },
+            "ais_version": 0,
+            "created_at": "2017-11-22T20:58:15.582353+00:00",
+            "updated_at": "2021-11-09T07:21:35.306009+00:00",
+            "static_updated_at": "2021-11-01T03:44:21+00:00",
+            "position_updated_at": "2021-11-09T07:21:35.306009+00:00",
+            "last_known_position": {
+                "timestamp": "2021-11-09T07:09:34.860000+00:00",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        125.28384,
+                        30.91181
+                    ]
+                },
+                "heading": 263.0,
+                "speed": 8.3,
+                "rot": -128.0,
+                "accuracy": null,
+                "collection_type": "dynamic",
+                "draught": 6.6,
+                "maneuver": 0.0,
+                "course": 258.0
+            },
+            "most_recent_voyage": {
+                "eta": "2021-11-11T00:00:00+00:00",
+                "destination": "TAI CANG CN",
+                "matched_port": {
+                    "unlocode": null,
+                    "port_name": null,
+                    "center_point": {
+                        "type": "Point",
+                        "coordinates": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            },
+            "predicted_position": {
+                "timestamp": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": []
+                },
+                "speed": null,
+                "course": null,
+                "confidence_radius": null
+            },
+            "general_classification": null,
+            "individual_classification": null,
+            "gross_tonnage": null,
+            "lifeboats": null,
+            "person_capacity": null,
+            "navigational_status": "Undefined"
+        }
+    ]
+}'
